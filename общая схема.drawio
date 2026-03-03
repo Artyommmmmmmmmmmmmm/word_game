@@ -1,0 +1,65 @@
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/143.0.0.0 Safari/537.36 OPR/127.0.0.0 (Edition Yx GX)" version="29.6.0">
+  <diagram name="Страница-1" id="3ML5R5uPtmJRvuyuHmd-">
+    <mxGraphModel dx="1381" dy="790" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+      <root>
+        <mxCell id="0" />
+        <mxCell id="1" parent="0" />
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-9" edge="1" parent="1" source="MRmea4Sk1JkQG3Kx3J8g-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="MRmea4Sk1JkQG3Kx3J8g-10">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-1" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="враг" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-7" edge="1" parent="1" source="MRmea4Sk1JkQG3Kx3J8g-2" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="MRmea4Sk1JkQG3Kx3J8g-8">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="380" y="270" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-2" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="клавиатура" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-5" edge="1" parent="1" source="MRmea4Sk1JkQG3Kx3J8g-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;" target="MRmea4Sk1JkQG3Kx3J8g-6">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="150" y="70" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-3" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="характеристики" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="170" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-11" edge="1" parent="1" source="MRmea4Sk1JkQG3Kx3J8g-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.75;exitDx=0;exitDy=0;" target="MRmea4Sk1JkQG3Kx3J8g-12">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="425" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-4" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="поле ввода" vertex="1">
+          <mxGeometry height="60" width="120" x="30" y="380" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="увеличиваются при победе над врагами" vertex="1">
+          <mxGeometry height="60" width="120" x="280" y="120" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-8" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="отображает клавиатуру со всеми клавишами досутпными для ввода" vertex="1">
+          <mxGeometry height="60" width="150" x="320" y="240" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-13" edge="1" parent="1" source="MRmea4Sk1JkQG3Kx3J8g-10" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" target="MRmea4Sk1JkQG3Kx3J8g-14">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="530" y="340" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-10" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="появляются на краю экрана и двигаются в сторону игрока" vertex="1">
+          <mxGeometry height="60" width="120" x="200" y="310" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-15" edge="1" parent="1" source="MRmea4Sk1JkQG3Kx3J8g-12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" target="MRmea4Sk1JkQG3Kx3J8g-14">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-12" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="отображает введенные символы очищается при вводе слова для атаки по врагу" vertex="1">
+          <mxGeometry height="75" width="140" x="300" y="395" as="geometry" />
+        </mxCell>
+        <mxCell id="MRmea4Sk1JkQG3Kx3J8g-14" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="при атаке по врагу пропадает один враг с введенным словом" vertex="1">
+          <mxGeometry height="70" width="130" x="490" y="305" as="geometry" />
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
